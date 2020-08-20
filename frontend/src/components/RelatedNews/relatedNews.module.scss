@@ -1,0 +1,27 @@
+.sideNews {
+  position: relative;
+  display: block;
+  width: inherit;
+  background-color: #F5F5F5;
+  margin-bottom: 37px;
+  transition: all .15s linear;
+}
+
+.sideNewsImage {
+  height: 112px;
+  background-size: cover;
+  background-position: center;
+}
+
+.sideNewsBody {
+  padding: 0 16px;
+}
+
+.sideNewsTitle {
+  font-weight: 700;
+  margin: 16px 0 8px;
+}
+
+.caption {
+  margin-bottom: 8px;
+}

@@ -1,0 +1,92 @@
+.box {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.card {
+  flex-direction: column;
+}
+
+.cardMedia {
+  padding-top: 56.25%; // 16:9
+}
+
+.cardContent {
+  padding: 16px 24px;
+  height: 100%;
+  width: 100%;
+  background-color: #F5F5F5;
+}
+
+.title {
+  line-height: 1.4;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 12px;
+  fontWeight: bold;
+}
+
+.caption {
+  float: left;
+  font-size: 12px;
+  color: #999;
+  margin-right: 8px;
+  padding-top: 3px;
+}
+
+.articleTime {
+  margin-left: 5px;
+
+}
+
+.articleMedia {
+  margin-left: 5px;
+}
+
+.info {
+  display: flex;
+  margin-top: 10px;
+}
+
+.span {
+  display: flex;
+  align-items: center
+}
+
+.image{
+  width: 528px;
+  height: 210px;
+  background-size: cover;
+  background-position: center;
+}
+
+.button{
+  margin-top: 14px;
+}
+
+
+@media screen and (min-width: 1324px) {
+  .cardContent{
+    padding: 16px 32px 24px;
+  }
+
+  .image {
+    width: 656px;
+    height: 262px;
+  }
+}
+
+
+@media screen and (min-width: 1200px) {
+  .image {
+    width: 656px;
+    height: 262px;
+  }
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+
+}

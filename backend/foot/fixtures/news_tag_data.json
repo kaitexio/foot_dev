@@ -1,0 +1,74 @@
+[
+    {
+        "model": "foot.newstag",
+        "pk": 1,
+        "fields": {
+            "news": 1,
+            "tag": 79
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 2,
+        "fields": {
+            "news": 2,
+            "tag": 80
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 3,
+        "fields": {
+            "news": 3,
+            "tag": 81
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 4,
+        "fields": {
+            "news": 3,
+            "tag": 80
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 5,
+        "fields": {
+            "news": 46,
+            "tag": 80
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 6,
+        "fields": {
+            "news": 45,
+            "tag": 81
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 7,
+        "fields": {
+            "news": 45,
+            "tag": 12
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 8,
+        "fields": {
+            "news": 44,
+            "tag": 81
+        }
+    },
+    {
+        "model": "foot.newstag",
+        "pk": 8,
+        "fields": {
+            "news": 44,
+            "tag": 7
+        }
+    }
+]

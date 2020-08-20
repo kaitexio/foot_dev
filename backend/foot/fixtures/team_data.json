@@ -1,0 +1,626 @@
+[
+  {
+    "model": "foot.team",
+    "pk": 1,
+    "fields": {
+      "name": "アストン・ヴィラ",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 2,
+    "fields": {
+      "name": "ノリッジ",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 3,
+    "fields": {
+      "name": "アーセナル",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 4,
+    "fields": {
+      "name": "ボーンマス",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 5,
+    "fields": {
+      "name": "ブライトン",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 6,
+    "fields": {
+      "name": "バーンリー",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 7,
+    "fields": {
+      "name": "チェルシー",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 8,
+    "fields": {
+      "name": "クリスタル・パレス",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 9,
+    "fields": {
+      "name": "エヴァートン",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 10,
+    "fields": {
+      "name": "レスター",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 11,
+    "fields": {
+      "name": "リヴァプール",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 12,
+    "fields": {
+      "name": "マンチェスター・C",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 13,
+    "fields": {
+      "name": "マンチェスター・U",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 14,
+    "fields": {
+      "name": "ニューカッスル",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 15,
+    "fields": {
+      "name": "サウサンプトン",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 16,
+    "fields": {
+      "name": "トッテナム",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 17,
+    "fields": {
+      "name": "ワトフォード",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 18,
+    "fields": {
+      "name": "ウェストハム",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 19,
+    "fields": {
+      "name": "ウルヴァーハンプトン",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 20,
+    "fields": {
+      "name": "シェフィールド・U",
+      "league": 3
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 21,
+    "fields": {
+      "name": "アタランタ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 22,
+    "fields": {
+      "name": "ボローニャ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 23,
+    "fields": {
+      "name": "フィオレンティーナ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 24,
+    "fields": {
+      "name": "ジェノア",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 25,
+    "fields": {
+      "name": "インテル",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 26,
+    "fields": {
+      "name": "ユヴェントス",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 27,
+    "fields": {
+      "name": "ラツィオ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 28,
+    "fields": {
+      "name": "ミラン",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 29,
+    "fields": {
+      "name": "ナポリ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 30,
+    "fields": {
+      "name": "ローマ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 31,
+    "fields": {
+      "name": "サンプドリア",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 32,
+    "fields": {
+      "name": "トリノ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 33,
+    "fields": {
+      "name": "ウディネーゼ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 34,
+    "fields": {
+      "name": "サッスオーロ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 35,
+    "fields": {
+      "name": "ヴェローナ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 36,
+    "fields": {
+      "name": "カリアリ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 37,
+    "fields": {
+      "name": "SPAL",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 38,
+    "fields": {
+      "name": "パルマ・カルチョ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 39,
+    "fields": {
+      "name": "ブレシア",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 40,
+    "fields": {
+      "name": "レッチェ",
+      "league": 1
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 41,
+    "fields": {
+      "name": "アウクスブルク",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 42,
+    "fields": {
+      "name": "レヴァークーゼン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 43,
+    "fields": {
+      "name": "バイエルン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 44,
+    "fields": {
+      "name": "ドルトムント",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 45,
+    "fields": {
+      "name": "ボルシアMG",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 46,
+    "fields": {
+      "name": "フランクフルト",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 47,
+    "fields": {
+      "name": "ホッフェンハイム",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 48,
+    "fields": {
+      "name": "マインツ",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 49,
+    "fields": {
+      "name": "シャルケ",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 50,
+    "fields": {
+      "name": "ブレーメン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 51,
+    "fields": {
+      "name": "ヴォルフスブルク",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 52,
+    "fields": {
+      "name": "ケルン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 53,
+    "fields": {
+      "name": "ヘルタ・ベルリン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 54,
+    "fields": {
+      "name": "フライブルク",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 55,
+    "fields": {
+      "name": "ライプツィヒ",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 56,
+    "fields": {
+      "name": "ウニオン・ベルリン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 57,
+    "fields": {
+      "name": "デュッセルドルフ",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 58,
+    "fields": {
+      "name": "パーダーボルン",
+      "league": 4
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 59,
+    "fields": {
+      "name": "アスレティック・ビルバオ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 60,
+    "fields": {
+      "name": "アトレティコ・マドリード",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 61,
+    "fields": {
+      "name": "バルセロナ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 62,
+    "fields": {
+      "name": "ベティス",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 63,
+    "fields": {
+      "name": "セルタ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 64,
+    "fields": {
+      "name": "ヘタフェ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 65,
+    "fields": {
+      "name": "グラナダ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 66,
+    "fields": {
+      "name": "レバンテ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 67,
+    "fields": {
+      "name": "エスパニョール",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 68,
+    "fields": {
+      "name": "レアル・マドリード",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 69,
+    "fields": {
+      "name": "レアル・ソシエダ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 70,
+    "fields": {
+      "name": "セビージャ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 71,
+    "fields": {
+      "name": "バレンシア",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 72,
+    "fields": {
+      "name": "ビジャレアル",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 73,
+    "fields": {
+      "name": "エイバル",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 74,
+    "fields": {
+      "name": "アラベス",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 75,
+    "fields": {
+      "name": "レガネス",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 76,
+    "fields": {
+      "name": "オサスナ",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 77,
+    "fields": {
+      "name": "バジャドリード",
+      "league": 2
+    }
+  },
+  {
+    "model": "foot.team",
+    "pk": 78,
+    "fields": {
+      "name": "マジョルカ",
+      "league": 2
+    }
+  }
+]

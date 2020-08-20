@@ -1,0 +1,576 @@
+[
+  {
+    "model": "foot.tag",
+    "pk": 1,
+    "fields": {
+      "name": "アストン・ヴィラ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 2,
+    "fields": {
+      "name": "ノリッジ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 3,
+    "fields": {
+      "name": "アーセナル"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 4,
+    "fields": {
+      "name": "ボーンマス"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 5,
+    "fields": {
+      "name": "ブライトン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 6,
+    "fields": {
+      "name": "バーンリー"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 7,
+    "fields": {
+      "name": "チェルシー"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 8,
+    "fields": {
+      "name": "クリスタル・パレス"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 9,
+    "fields": {
+      "name": "エヴァートン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 10,
+    "fields": {
+      "name": "レスター"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 11,
+    "fields": {
+      "name": "リヴァプール"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 12,
+    "fields": {
+      "name": "マンチェスター・C"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 13,
+    "fields": {
+      "name": "マンチェスター・U"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 14,
+    "fields": {
+      "name": "ニューカッスル"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 15,
+    "fields": {
+      "name": "サウサンプトン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 16,
+    "fields": {
+      "name": "トッテナム"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 17,
+    "fields": {
+      "name": "ワトフォード"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 18,
+    "fields": {
+      "name": "ウェストハム"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 19,
+    "fields": {
+      "name": "ウルヴァーハンプトン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 20,
+    "fields": {
+      "name": "シェフィールド・U"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 21,
+    "fields": {
+      "name": "アタランタ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 22,
+    "fields": {
+      "name": "ボローニャ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 23,
+    "fields": {
+      "name": "フィオレンティーナ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 24,
+    "fields": {
+      "name": "ジェノア"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 25,
+    "fields": {
+      "name": "インテル"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 26,
+    "fields": {
+      "name": "ユヴェントス"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 27,
+    "fields": {
+      "name": "ラツィオ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 28,
+    "fields": {
+      "name": "ミラン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 29,
+    "fields": {
+      "name": "ナポリ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 30,
+    "fields": {
+      "name": "ローマ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 31,
+    "fields": {
+      "name": "サンプドリア"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 32,
+    "fields": {
+      "name": "トリノ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 33,
+    "fields": {
+      "name": "ウディネーゼ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 34,
+    "fields": {
+      "name": "サッスオーロ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 35,
+    "fields": {
+      "name": "ヴェローナ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 36,
+    "fields": {
+      "name": "カリアリ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 37,
+    "fields": {
+      "name": "SPAL"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 38,
+    "fields": {
+      "name": "パルマ・カルチョ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 39,
+    "fields": {
+      "name": "ブレシア"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 40,
+    "fields": {
+      "name": "レッチェ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 41,
+    "fields": {
+      "name": "アウクスブルク"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 42,
+    "fields": {
+      "name": "レヴァークーゼン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 43,
+    "fields": {
+      "name": "バイエルン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 44,
+    "fields": {
+      "name": "ドルトムント"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 45,
+    "fields": {
+      "name": "ボルシアMG"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 46,
+    "fields": {
+      "name": "フランクフルト"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 47,
+    "fields": {
+      "name": "ホッフェンハイム"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 48,
+    "fields": {
+      "name": "マインツ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 49,
+    "fields": {
+      "name": "シャルケ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 50,
+    "fields": {
+      "name": "ブレーメン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 51,
+    "fields": {
+      "name": "ヴォルフスブルク"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 52,
+    "fields": {
+      "name": "ケルン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 53,
+    "fields": {
+      "name": "ヘルタ・ベルリン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 54,
+    "fields": {
+      "name": "フライブルク"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 55,
+    "fields": {
+      "name": "ライプツィヒ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 56,
+    "fields": {
+      "name": "ウニオン・ベルリン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 57,
+    "fields": {
+      "name": "デュッセルドルフ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 58,
+    "fields": {
+      "name": "パーダーボルン"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 59,
+    "fields": {
+      "name": "アスレティック・ビルバオ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 60,
+    "fields": {
+      "name": "アトレティコ・マドリード"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 61,
+    "fields": {
+      "name": "バルセロナ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 62,
+    "fields": {
+      "name": "ベティス"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 63,
+    "fields": {
+      "name": "セルタ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 64,
+    "fields": {
+      "name": "ヘタフェ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 65,
+    "fields": {
+      "name": "グラナダ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 66,
+    "fields": {
+      "name": "レバンテ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 67,
+    "fields": {
+      "name": "エスパニョール"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 68,
+    "fields": {
+      "name": "レアル・マドリード"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 69,
+    "fields": {
+      "name": "レアル・ソシエダ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 70,
+    "fields": {
+      "name": "セビージャ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 71,
+    "fields": {
+      "name": "バレンシア"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 72,
+    "fields": {
+      "name": "ビジャレアル"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 73,
+    "fields": {
+      "name": "エイバル"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 74,
+    "fields": {
+      "name": "アラベス"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 75,
+    "fields": {
+      "name": "レガネス"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 76,
+    "fields": {
+      "name": "オサスナ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 77,
+    "fields": {
+      "name": "バジャドリード"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 78,
+    "fields": {
+      "name": "マジョルカ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 79,
+    "fields": {
+      "name": "セリエA"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 80,
+    "fields": {
+      "name": "ラ・リーガ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 81,
+    "fields": {
+      "name": "プレミアリーグ"
+    }
+  },
+  {
+    "model": "foot.tag",
+    "pk": 82,
+    "fields": {
+      "name": "ブンデスリーガ"
+    }
+  }
+]

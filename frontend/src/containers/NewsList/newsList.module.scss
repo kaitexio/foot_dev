@@ -1,0 +1,54 @@
+.indexPage {
+}
+
+.skeletonSlider {
+  height: 400px;
+}
+
+.root {
+  width: 100%;
+  height: 100%;
+  padding: 32px;
+}
+
+.cardGrid {
+  position: relative;
+  width: 846px;
+  padding: 35px 24px 32px;
+  margin: 47px auto;
+}
+
+.primary {
+  float: left;
+  width: 68.3%;
+}
+
+.sectionTitle {
+  text-align: left;
+  margin-bottom: 30px;
+  font-size: 43px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.sub {
+  float: right;
+  width: 23.7%;
+
+  .tag {
+    margin-bottom: 20px;
+  }
+
+  .subTitle {
+    padding: 20px 30px;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .content {
+    //background-color: #F5F5F5;
+  }
+
+}
+

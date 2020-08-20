@@ -1,0 +1,38 @@
+.content {
+
+  .sideNews {
+    position: relative;
+    display: block;
+    width: inherit;
+    margin-bottom: 47px;
+    transition: all .15s linear;
+  }
+
+  .sideNewsImage {
+    height: 112px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .sideNewsBody {
+    padding: 0 16px;
+    background-color: #F5F5F5;
+  }
+
+  .sideNewsTitle {
+    font-weight: 700;
+    padding: 17px 0;
+  }
+
+  .rank {
+    position: absolute;
+    top: -37px;
+    left: 0;
+    font-size: 3.8rem;
+    font-weight: bold;
+    font-family: 'AvenirNextLTPro';
+    color: #C89C5E;
+    z-index: 2;
+  }
+
+}

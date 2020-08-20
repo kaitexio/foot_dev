@@ -1,0 +1,70 @@
+.root {
+  align-self: center;
+  margin-left: 15px;
+
+  a {
+    font-size: 13px;
+    font-weight: bold;
+    border-bottom: 1px solid;
+    padding: 5px 0;
+  }
+}
+
+.button {
+  //color: black !important;
+  //font-size: 13px !important;
+}
+
+
+.paper {
+  max-height: 600px !important;
+  max-width: 400px !important;
+  min-width: 400px !important;
+  padding: 32px 40px
+}
+
+.title {
+  text-align: center;
+
+  h2 {
+    font-size: 17px;
+    font-weight: bold;
+  }
+}
+
+.socialLogin {
+
+  button {
+    position: relative;
+    display: flex;
+    padding-left: 18px;
+    text-align: left;
+    margin-top: 8px;
+    height: 48px;
+    width: 100%;
+    border: none;
+    border-radius: 2px;
+    color: #eaeaea;
+    align-items: center;
+  }
+
+  span {
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+
+.buttonFb {
+  background-color: #3C5B97;
+}
+
+.buttonTw {
+  background-color: #59ADEC;
+}
+
+
+.divider {
+  margin-top: 16px !important;
+
+}

@@ -1,0 +1,38 @@
+.root {
+  box-shadow: None;
+}
+
+.tool {
+}
+
+.username{
+  display: flex;
+  position: absolute;
+  right: 40px;
+  padding-right: 56px;
+}
+
+.logo {
+  margin: auto;
+
+  h2 {
+    color: #222222;
+    font-weight: bold;
+  }
+}
+
+
+.menu {
+  display: flex;
+  position: absolute;
+  right: 10px;
+  padding-right: 23px;
+
+}
+
+.menuList {
+  span {
+    padding-left: 2.5rem;
+    height: 2rem;
+  }
+}

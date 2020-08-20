@@ -1,0 +1,30 @@
+[
+  {
+    "model": "foot.league",
+    "pk": 1,
+    "fields": {
+      "name": "セリエA"
+    }
+  },
+  {
+    "model": "foot.league",
+    "pk": 2,
+    "fields": {
+      "name": "ラ・リーガ"
+    }
+  },
+  {
+    "model": "foot.league",
+    "pk": 3,
+    "fields": {
+      "name": "プレミアリーグ"
+    }
+  },
+  {
+    "model": "foot.league",
+    "pk": 4,
+    "fields": {
+      "name": "ブンデスリーガ"
+    }
+  }
+]

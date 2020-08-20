@@ -1,0 +1,46 @@
+.settingForm {
+  padding-top: 24px;
+  border-top: 1px solid #d9d9d9;
+}
+
+.formField {
+  margin-bottom: 45px;
+  display: flex;
+
+  label {
+    width: 232px;
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+
+  .cover {
+    position: relative;
+    display: flex;
+
+    .label {
+      width: 90px;
+    }
+  }
+
+  .icon {
+    vertical-align: middle;
+    margin-right: 15px;
+  }
+
+  .button {
+    position: absolute;
+  }
+
+  .input {
+    display: none;
+  }
+}
+
+.settingButton {
+  width: 100%;
+
+  .buttons {
+    left: 232px;
+  }
+}

@@ -1,0 +1,17 @@
+.content {
+
+    .tagList {
+      display: flex;
+      list-style: none;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 23px;
+      background-color:#F5F5F5;
+    }
+
+    .chip {
+      margin: 5px;
+      font-weight: bold;
+    }
+}
+

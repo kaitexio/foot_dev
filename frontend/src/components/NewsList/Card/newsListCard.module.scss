@@ -1,0 +1,96 @@
+.Container {
+  position: relative;
+  width: 50%;
+  top: 200px;
+  left: 250px;
+}
+
+.GridItem {
+  width: 10px;
+  height: auto;
+  max-height: 100vh;
+}
+
+
+.text {
+  height: 150px;
+  max-height: 150px;
+
+}
+
+
+.cardGrid {
+  position: relative;
+  top: 100px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0 !important;
+}
+
+
+.cardMedia {
+  padding-top: 56.25%; // 16:9
+}
+
+
+.cardContent {
+  flex-grow: 1;
+}
+
+
+.cardTextLink {
+
+  line-height: 1.4em;
+  text-decoration: None;
+  color: black
+}
+
+
+.articleInfo {
+  font-size: 12px;
+  margin-bottom: 10px;
+  top: 20px;
+}
+
+
+.cardText {
+  font-weight: bold;
+  font-size: 15px;
+  text-overflow: ellipsis;
+}
+
+
+.AccessTimeIcon {
+  position: relative;
+  padding-right: 3px;
+  font-size: 15px;
+  top: 3px;
+
+}
+
+
+.WebIcon {
+  position: relative;
+  font-size: 15px;
+  padding-right: 3px;
+  top: 3px;
+}
+
+
+.articleTime {
+  margin-left: 17px;
+  color: black;
+
+}
+
+.articleMedia {
+  color: #C89C5E;
+  font-weight: bold;
+}
