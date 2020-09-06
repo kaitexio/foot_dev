@@ -1,5 +1,4 @@
-# こんなサッカーメディアあったらなーと思って作ったやつ
-
+# 欧州サッカーニュースメディア
 ## Getting Started
 
 All service container run with :
