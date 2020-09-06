@@ -16,5 +16,5 @@ docker-compose down (--volume)
 ```
 ・mysql5.7
 ・Django
-.React
+・React
 ```
